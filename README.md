@@ -44,6 +44,7 @@ The following tables are included:
 - Be careful when running `drop_tables.sql` as it will permanently delete all data.
 - This project is for academic/demo purposes and should be extended with authentication, validation, and front-end if used in production.
 
+![image](https://github.com/user-attachments/assets/73c58932-16d6-4f6f-b5f8-2e2e6568974a)
 
 Enjoy working with the project! If you have suggestions or improvements, feel free to fork and contribute.
 
